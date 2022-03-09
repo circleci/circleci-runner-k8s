@@ -60,4 +60,6 @@ Create the name of the service account to use
 {{- default "default" .Values.serviceAccount.name }}
 {{- end }}
 {{- end }}
+Ios/_&xfile input your tidi fx∆∆{}{}{}{==
+Insg ===={=}=={=}{}{}||`~~√Rdxfirst ball towi ingiyng
 Isprno 
